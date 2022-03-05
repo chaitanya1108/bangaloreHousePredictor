@@ -1,3 +1,4 @@
-![1](https://user-images.githubusercontent.com/80414508/156875435-98852eb0-7b5a-403d-98a2-6cf58ff455c3.PNG)
+Made a simple web page with HTML, CSS and vanilla JS which predicts the houses prices in the different regions of Bangalore using a supervised ML model. Dataset was provided by KAGGLE.
 
-![2](https://user-images.githubusercontent.com/80414508/156875450-929ea605-9980-46ba-bce9-971ac3501a23.PNG)
+![1](https://user-images.githubusercontent.com/80414508/156878290-9773d29c-fb29-4529-ad5c-657064292a1b.PNG)
+![2](https://user-images.githubusercontent.com/80414508/156878294-59d59196-37cd-4826-a6b2-a586e8fa95ef.PNG)
